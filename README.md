@@ -32,7 +32,7 @@ Greenhouse is an IoT-based project designed to monitor and control environmental
 - Wokwi simulator
 
 ## Achievements
-Finally, it was considered one of the best projects in the training.
+Finally, it has been considered one of the best projects in the training.
 
 ![Team Photo](https://github.com/ZizoElkhateeb/IOT_Greenhouse/blob/main/Team.jpeg)
 
