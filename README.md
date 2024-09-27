@@ -1,4 +1,5 @@
 # Greenhouse 🌿
+![Greenhouse photo](https://github.com/ZizoElkhateeb/IOT_Greenhouse/blob/main/Greenhouse.png)
 
 ## Overview
 Greenhouse is an IoT-based project designed to monitor and control environmental conditions inside a greenhouse. Using a combination of sensors and actuators, it ensures optimal growing conditions for plants by regulating temperature, humidity, and soil moisture levels. This project leverages modern technologies like ESP32 and Flutter for seamless integration and monitoring.
