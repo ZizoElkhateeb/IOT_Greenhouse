@@ -1,16 +1,17 @@
 # Greenhouse 🌿
 ![Greenhouse photo](https://github.com/ZizoElkhateeb/IOT_Greenhouse/blob/main/Greenhouse.png)
 
---
+---
 
 ## Drive
 [Demo Video](https://drive.google.com/file/d/1JA_G5DOCKbqjuB28rtcaMchY1dqEohYE/view?usp=drive_link)
 
+---
 
 ## Overview
 Greenhouse is an IoT-based project designed to monitor and control environmental conditions inside a greenhouse. Using a combination of sensors and actuators, it ensures optimal growing conditions for plants by regulating temperature, humidity, and soil moisture levels. This project leverages modern technologies like ESP32 and Flutter for seamless integration and monitoring.
 
---
+---
 
 ## Features
 - Real-time monitoring of temperature, humidity, and soil moisture.
@@ -18,7 +19,7 @@ Greenhouse is an IoT-based project designed to monitor and control environmental
 - Mobile application with login system for remote monitoring, control, and visualization.
 - Real-time database & Node-Red.
 
---
+---
 
 ## Requirements
 ### Hardware
@@ -35,7 +36,7 @@ Greenhouse is an IoT-based project designed to monitor and control environmental
 - Touch buttons
 - and more... 
 
---
+---
 
 ### Software
 - Visual Studio - Platform IO
@@ -44,7 +45,7 @@ Greenhouse is an IoT-based project designed to monitor and control environmental
 - Node-red
 - Wokwi simulator
 
---
+---
 
 ## Achievements
 Finally, it has been considered one of the best projects in the training.
